@@ -37,7 +37,7 @@ Automate the process of manually collected data from companies site to analyse p
 
 Find publicly available information (both positive and negative) about a private company and capture it in intelligible, succinct, accessible form as data fields in a database.
 
-**Technology Used: ** Python, BeautifulSoup, Selenium
+**Technology Used:** Python, BeautifulSoup, Selenium
 
 **Results:**
 Automated the manually process of collecting information.
