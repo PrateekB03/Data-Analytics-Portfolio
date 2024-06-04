@@ -6,3 +6,39 @@ During my Master's I have honed my skills and also gained some new skills such a
 
 My CV is in Resume-PrateekBarve.pdf
 
+Portfolio Projects:
+
+**Bike Share Demand Analysis (Machine Learning Project)**
+
+**Code:** 
+
+**Goals:**
+  Total ridership count 
+
+**About the Project**
+
+We were provided hourly rental data spanning two years.The training set is comprised of the first 19 days of each month, while the test set is the 20th to the end of the month. There were many Data Fields provided such as registered, casual, holiday, season and we had to analyse total ridership count based on external factors. The project used Exploratory Data Analysis (EDA), Data Cleaning and preprocessing and forcasting rider volume using 4 ML models: Linear Regression, Decision Tree and Boosting to get a better predicitive accuracy than the other two models.
+
+**Technology Used:** R, lubridate, caret.
+
+**Results**
+
+We saw that boosting the model helped the model performance and it performed way better than the other two model based on the RSME and MAPE.
+
+
+**WebScrapper**
+
+**Code:**
+
+**Goals:**
+Automate the process of manually collected data from companies site to analyse potential buying opportunities for the client.
+
+**About the project:**
+
+Find publicly available information (both positive and negative) about a private company and capture it in intelligible, succinct, accessible form as data fields in a database.
+
+**Technology Used: ** Python, BeautifulSoup, Selenium
+
+**Results:**
+Automated the manually process of collecting information.
+Created a WebScrapper using Python to extract information such as Legal, Financial Information, about the company etc from a third party website and make a database with the extracted data into excel.
