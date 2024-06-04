@@ -4,7 +4,7 @@ My name is Prateek Barve, as a Business Analytics graduate from Babson College w
 
 During my Master's I have honed my skills and also gained some new skills such as Statistical Analysis, Data Management, Machine Learning etc. which would be helpful in my next venture as a Data Analyst
 
-My CV is in Resume-PrateekBarve.pdf
+My CV is (https://github.com/PrateekB03/Data-Analytics-Portfolio/blob/50ddd4a141c32d20154cbb738b5b77c48b242223/Resume-PrateekBarve.pdf)
 
 Portfolio Projects:
 
