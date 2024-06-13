@@ -10,7 +10,7 @@ Portfolio Projects:
 
 **Bike Share Demand Analysis (Machine Learning Project)**
 
-**Code:** (https://ideal-happiness-v65g7qr7p952xj64.github.dev/)
+**Code:** https://musical-space-bassoon-jjrgv77qq57xc9rw.github.dev/
 
 **Goals:**
   Total ridership count 
