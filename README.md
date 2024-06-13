@@ -42,3 +42,16 @@ Find publicly available information (both positive and negative) about a private
 **Results:**
 Automated the manually process of collecting information.
 Created a WebScrapper using Python to extract information such as Legal, Financial Information, about the company etc from a third party website and make a database with the extracted data into excel.
+
+
+**GenAI for Data Analysis**
+
+**Code** 
+
+**About the Project** 
+I was given a retail data set from a company called ToyTrends. I had to develop an advanced AI Assistant which was capable of conducting insightful Data Analysis on the sales data.
+
+**Technology Used**  Python, OpenAI, Pandas 
+
+**Results**
+Successfully created a Assistant using OpenAI to get meaningful insights from the data. Also, built a line chart and histogram to get the answers to the business questions given to by ToyTrends
