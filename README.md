@@ -49,9 +49,11 @@ Created a WebScrapper using Python to extract information such as Legal, Financi
 **Code** 
 
 **About the Project** 
+
 I was given a retail data set from a company called ToyTrends. I had to develop an advanced AI Assistant which was capable of conducting insightful Data Analysis on the sales data.
 
-**Technology Used**  Python, OpenAI, Pandas 
+**Technology Used:**  Python, OpenAI, Pandas 
 
 **Results**
+
 Successfully created a Assistant using OpenAI to get meaningful insights from the data. Also, built a line chart and histogram to get the answers to the business questions given to by ToyTrends
