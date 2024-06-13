@@ -28,7 +28,7 @@ We saw that boosting the model helped the model performance and it performed way
 
 **WebScrapper**
 
-**Code:** https://ideal-happiness-v65g7qr7p952xj64.github.dev/
+**Code:** https://musical-space-bassoon-jjrgv77qq57xc9rw.github.dev/
 
 **Goals:**
 Automate the process of manually collected data from companies site to analyse potential buying opportunities for the client.
